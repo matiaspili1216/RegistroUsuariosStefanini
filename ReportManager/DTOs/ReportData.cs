@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TD_FWK.ReportManager
+namespace RegistroUsuariosStefanini.ReportManager
 {
     public class ReportData
     {

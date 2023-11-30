@@ -3,7 +3,7 @@
 using System;
 using System.Collections.ObjectModel;
 
-namespace MatiasPili1216.ExpectedConditionsTools
+namespace RegistroUsuariosStefanini.SeleniumTools
 {
     public class ExpectedConditionsForBy
     {

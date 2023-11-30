@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace MatiasPili1216.FindElementTools
+namespace RegistroUsuariosStefanini.FindElementTools
 {
     /// <summary>
     /// Mechanism used to locate elements within a document using a series of other lookups.  This class

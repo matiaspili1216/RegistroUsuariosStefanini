@@ -4,7 +4,7 @@ using System;
 using System.Collections.ObjectModel;
 using System.Linq;
 
-namespace MatiasPili1216.ExpectedConditionsTools
+namespace RegistroUsuariosStefanini.SeleniumTools
 {
     public class ExpectedConditionsForWebElement
     {

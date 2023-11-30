@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace MatiasPili1216.FindElementTools
+namespace RegistroUsuariosStefanini.FindElementTools
 {
     public class ByExtra : By
     {

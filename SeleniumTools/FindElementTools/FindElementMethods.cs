@@ -1,4 +1,4 @@
-﻿using MatiasPili1216.ExpectedConditionsTools;
+﻿using RegistroUsuariosStefanini.SeleniumTools;
 
 using OpenQA.Selenium;
 
@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace MatiasPili1216.FindElementTools
+namespace RegistroUsuariosStefanini.FindElementTools
 {
     public static class FindElementMethods
     {

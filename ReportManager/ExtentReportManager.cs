@@ -3,7 +3,7 @@ using AventStack.ExtentReports.Reporter;
 
 using System.IO;
 
-namespace TD_FWK.ReportManager
+namespace RegistroUsuariosStefanini.ReportManager
 {
     public class ExtentReportManager
     {

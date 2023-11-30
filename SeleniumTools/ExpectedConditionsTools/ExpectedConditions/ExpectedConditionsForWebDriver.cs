@@ -23,7 +23,7 @@ using System.Text.RegularExpressions;
 
 using OpenQA.Selenium;
 
-namespace MatiasPili1216.ExpectedConditionsTools
+namespace RegistroUsuariosStefanini.SeleniumTools
 {
     /// <summary>
     /// Supplies a set of common conditions that can be waited for using <see cref="WebDriverWait"/>.

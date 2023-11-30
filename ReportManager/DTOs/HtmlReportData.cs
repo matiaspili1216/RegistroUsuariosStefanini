@@ -1,4 +1,4 @@
-﻿namespace TD_FWK.ReportManager
+﻿namespace RegistroUsuariosStefanini.ReportManager
 {
     public class HtmlReportData
     {
