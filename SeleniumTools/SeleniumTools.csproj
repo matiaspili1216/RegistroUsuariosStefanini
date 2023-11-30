@@ -67,6 +67,7 @@
     <Compile Include="FindElementTools\ByExtras\ByChainedOR.cs" />
     <Compile Include="FindElementTools\ByExtras\ByExtra.cs" />
     <Compile Include="FindElementTools\FindElementMethods.cs" />
+    <Compile Include="IWebElementExtendMethods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
