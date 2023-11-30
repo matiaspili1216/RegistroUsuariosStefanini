@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RegistroUsuariosStefanini.ReportManager
+namespace ReportManager
 {
     public class ReportData
     {

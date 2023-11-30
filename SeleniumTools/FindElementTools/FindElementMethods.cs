@@ -1,12 +1,12 @@
-﻿using RegistroUsuariosStefanini.SeleniumTools;
+﻿using OpenQA.Selenium;
 
-using OpenQA.Selenium;
+using SeleniumTools.ExpectedConditionsTools;
 
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace RegistroUsuariosStefanini.FindElementTools
+namespace SeleniumTools.FindElementTools
 {
     public static class FindElementMethods
     {

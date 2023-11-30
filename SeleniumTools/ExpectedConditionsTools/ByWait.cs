@@ -3,7 +3,7 @@ using OpenQA.Selenium.Support.UI;
 
 using System;
 
-namespace RegistroUsuariosStefanini.SeleniumTools
+namespace SeleniumTools.ExpectedConditionsTools
 {
     public class ByWait : DefaultWait<By>
     {

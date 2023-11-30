@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RegistroUsuariosStefanini.FindElementTools
+namespace SeleniumTools.FindElementTools
 {
     public class ByAttribute : By
     {

@@ -1,4 +1,4 @@
-﻿namespace RegistroUsuariosStefanini.ReportManager
+﻿namespace ReportManager
 {
     public class HtmlReportData
     {

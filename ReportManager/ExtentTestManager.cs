@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 using System;
 using System.Linq;
 
-namespace RegistroUsuariosStefanini.ReportManager
+namespace ReportManager
 {
     public class ExtentTestManager
     {
