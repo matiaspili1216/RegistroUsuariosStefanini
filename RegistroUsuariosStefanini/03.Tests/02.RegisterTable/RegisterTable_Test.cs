@@ -18,8 +18,8 @@ namespace RegistroUsuariosStefanini.Tests.RegisterTable
     public class RegisterTable_Test : Base_Test
     {
         [TestMethod]
-        [TestProperty("TestExecutionName", "ValidateErrorName_Empty"), TestProperty("TestExecutionCategory", "RegisterTableTest")]
-        public void ValidateErrorName_Empty()
+        [TestProperty("TestExecutionName", "ValidateAddNewUser_OK"), TestProperty("TestExecutionCategory", "RegisterTableTest")]
+        public void ValidateAddNewUser_OK()
         {
             try
             {
